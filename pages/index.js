@@ -58,7 +58,7 @@ export default function Home(props) {
 
       <div className="card card-info">
         <h2>💡 Blog App</h2>
-        <p>Welcome! This is a Blogging App</p>
+        <p>Welcome! Write about any topic you like</p>
         <p>Sign up for an 👨‍🎤 account, ✍️ write posts, then 💞 heart content created by other users. All public content is server-rendered and search-engine optimized.</p>
       </div>
      
